@@ -38,6 +38,6 @@ Este projeto é uma implementação clássica do jogo da cobrinha, onde o jogado
 
 ## Como Executar
 
-1. Clone este repositório e abra o arquivo `index.html` em um navegador, ou apenas abra o link do github pages presente no repositório
+1. Clone este repositório e abra o arquivo `index.html` em um navegador, ou apenas abra o link do github pages presente no repositório.
 
 
